@@ -1,0 +1,117 @@
+Final Year Project Report
+Full Unit – Final Report
+ 
+Project Title
+Student’s first and last name
+ 
+
+A report submitted in part fulfilment of the degree of
+BSc (Hons) in Computer Science
+Supervisor: Supervisor Name
+ 
+Department of Computer Science
+Royal Holloway, University of London
+
+
+April 01, 2020 
+ 
+Declaration
+This report has been prepared on the basis of my own work. Where other published and unpublished source materials have been used, these have been acknowledged.
+
+Word Count:
+
+Student Name:
+
+Date of Submission:
+
+Signature:
+Table of Contents
+Abstract	3
+Project Specification	4
+Chapter 1:	Introduction	5
+1.1	How to use this template	5
+Chapter 2:	Styles in Word	6
+Chapter 3:	Page Layout & Size	8
+Chapter 4:	Headings	9
+4.1	Second Level Headings	9
+4.2	A Word on Numbering	9
+Chapter 5:	Presentation issues	10
+5.1	Figures, Charts and Tables	10
+5.2	Source Code	10
+Chapter 6:	Table of Contents and References	11
+Chapter 7:	Project Information and Rules	12
+Bibliography	13
+
+Abstract
+This document serves as a layout and formatting template for your project report. It does not tell you how to write it, or what it should contain. It explains how it should be formatted and typeset. Please refer to your project booklet for information about report sizes, contents and rules.
+ NOTE: in your report, you should replace this with an appropriate Abstract for your project report.
+
+
+ 
+Project Specification
+Your project specification goes here.
+ 
+Chapter 1:	Introduction
+The project report is a very important part of your project and its preparation and presentation should be of extremely high quality. Remember that a significant portion of the marks for your project are awarded for this report. The electronic submission of your report must be in PDF format. You can use the menu option File->Save As to generate it.
+This document is a style guide for final year project reports in the Department of Computer Science. As such, it constitutes a collection of predefined Microsoft Word formatting styles for the production of your final report. 
+While this may sound like a rather prescriptive approach to report writing, it is introduced for the following reasons. 
+1.	The style guide allows students to focus on the critical task of producing clear and concise content, instead of being distracted by font settings and paragraph spacing. 
+2.	By providing a comprehensive style guide the Department benefits from a consistent and professional look to its internal project reports.
+The remainder of this document briefly outlines the main components and their usage.
+A final project report is approximately 15,000 words and must include a word count. It is acceptable to have other material in appendixes. Your interim report for the December Review meeting, even if it is a collection of reports, should have a total word count of about 5,000 words. This should summarise the work you have done so far, with sections on the theory you have learnt and the code that you have written.
+Also remember that any details of report content and submission rules, as well as other deliverables, are defined in the project booklet [1].
+1.1	How to use this template
+The simplest way to get started with your report is to save a copy of this document. First change the cover page to match your details (remember to specify if it is the Interim or Final Report). If you are doing the project as a half unit, change the relevant line in the cover page. Delete the unneeded sections and start adding your own sections using the styles provided. Before submission, remember to fill in the Declaration section fields.
+Chapter 2:	Styles in Word
+Every style defined in this document is essentially a collection of formatting commands (font commands, paragraph controls etc) for each of the common types of components that are likely to make up your project report. 
+As such the following standard styles have been defined:
+•	Normal – the style for the basic text of the document.
+•	Project Title – the title style.
+•	Heading 1, Heading 2, Heading 3 – styles for different levels of section headings.
+•	Figure – the style for a figure or table caption.
+•	Code – the style for program source code.
+•	Bulleted List – the style for a standard bulleted list such as this one.
+•	Numbered – similar to the bulleted list style except that the list is numbered.
+Normally, styles are selected from the Word style menu, which is located on the main Word ribbon/toolbar (see Figure 1). 
+ 
+Figure 1.	Selecting the Heading 1 style from the Word style menu.
+It is important to emphasise that the above styles are the only styles that are approved for use in your report. Word comes with an expanded set of pre-defined styles and of course you can, in theory, define your own styles. However, we strongly suggest that you to stick to the approved styles. Of course, you may have a genuine need for a new style during the preparation of your report. However, we suggest that you consider whether one of the approved styles can be used before you rush to create a new style. For example, we have not defined a specific style for the bibliographic entries that you will need at the end of your report. Instead we strongly suggest the use of a numbered list style for your bibliography, with citations in the text taking the form of “see [1] for related work”. In that case, you can use cross-references in Word.
+Chapter 3:	Page Layout & Size
+The page size and margins have been set in this document. These should not be changed or adjusted. 
+In addition, page headers and footers have been included. The footer should not need to be edited as it contains the page number, which is always updated automatically. Remember to update the header with your information.
+Chapter 4:	Headings
+Your report will be structured as a collection of number sections at different levels of detail. For example, the heading to this section is a first-level heading (it’s called Heading 1) and has been defined with a particular set of font and spacing characteristics. At the start of a new section, you need to select the appropriate heading style, Heading 1 in this case, by clicking Heading 1 on the style toolbar.
+4.1	Second Level Headings
+Second and third level headings have also been defined and can be accessed as Heading 2 and Heading 3 styles. For example, the heading in this subsection is a second-level heading.
+4.1.1	Third Level Headings
+The heading for this subsection is a third level heading. In general, it is unlikely that fourth of fifth level headings will be required in your final report. Indeed it is more likely that if you do find yourself needing them, then your document structure is probably not ideal. So, try to stick to these three levels.
+4.2	A Word on Numbering
+You will notice that the main section headings in this document are all numbered in a hierarchical fashion. You don’t have to worry about the numbering. It is all automatic as it has been built into the heading styles. Each time you create a new heading by selecting the appropriate style, the correct number will be assigned. 
+This form of automatic numbering is great when it works well, and while you are not responsible for the numbering itself, you are responsible for the correct use of heading styles. If you are not careful – for instance by setting a blank line to be a heading style – you will find headings to be numbered incorrectly. This is because the heading numbering works by counting the number of previous heading assignments (of a particular type – heading 1, 2 or 3) that occur up to a given point in the document.
+Chapter 5:	Presentation issues
+5.1	Figures, Charts and Tables
+Most final reports will contain a mixture of figures and charts along with the main body of text. In this document a style called Figure (accessed as usual from the style toolbar) has been defined for the figure caption and should appear directly after the figure as seen in Figure 1 whereas a table caption should appear directly above the table. Once again, time has been spent defining this style to handle figure numbering but care needs to be taken to ensure that extra lines are not carelessly created in this style or else the numbering will not be correct.
+Inserting and aligning figures and charts in Word can be a hit and miss affair at the best of times. As a tip, a fairly reliable way of inserting graphics and charts that have been copied to the clipboard is to use the “paste special” option in word and select a “picture” option, rather than pasting directly. 
+Figures, charts and tables should always be centred horizontally. This can be achieved by right-clicking the graphic, selecting the Format Picture option and then selecting the Layout tab to find various alignment options.
+5.2	Source Code
+A Code style has been prepared for formatting short excerpts of source code. It is a simple indented, single-spaced style using a fixed font (Courier New) to produce code that appears like the following:
+static public void main(String[] args) {
+  try  {
+    UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+  }
+  catch(Exception e) {
+    e.printStackTrace();
+  }
+  new WelcomeApp();
+} 
+Chapter 6:	Table of Contents and References
+A table of contents (TOC) page has also been included in this report template. Before delivering your report, remember to update your existing table of contents by right clicking it and selecting the Update field option. If there are new sections since the last update, you should select the Update entire table option.
+A word of warning on this feature – the table of contents is automatically generated by compiling a table of all of the level 1 and 2 headings in your document. This means that every line with one of these styles will appear in the table. If you use these styles for non-headings (of course you should not do this) then these non-headings will also appear in the table.
+Use one consistent system for citing works in the body of your report. Several such systems are in common use in textbooks and in conference and journal papers. Ensure that any works you cite are listed in the references section, and vice versa.
+Chapter 7:	Project Information and Rules
+The details about how your project will be assessed, as well as the rules you must follow for this final project report, are detailed in the project booklet [1].
+You must read that document and strictly follow it.
+Bibliography
+[1]	Dave Cohen and Carlos Matos. Third Year Projects – Rules and Guidelines. Royal Holloway, University of London, 2013.
+
+
