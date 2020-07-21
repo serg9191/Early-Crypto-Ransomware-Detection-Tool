@@ -1,0 +1,76 @@
+final_v1.0
+|   README.txt
+|   
++---detection_tool
+|   |   detection_indicators.py
+|   |   drive_finder.py
+|   |   file.py
+|   |   file_entropy.py
+|   |   file_extensions.py
+|   |   file_finder.py
+|   |   file_fuzzy_hash.py
+|   |   file_monitor.py
+|   |   file_storage.py
+|   |   file_type.py
+|   |   ignore_patterns.py
+|   |   
+|   +---mock_ransomware
+|   |       class_C_ransomware.py
+|   |       
+|   +---test_files
+|   |       Formative_1.pdf
+|   |       FullUnit.pdf
+|   |       IY3840_lecture_19_20_5.pdf
+|   |       Lorem-20-para.docx
+|   |       lorem-500-para.docx
+|   |       Peer Guides Scheme[2721].docx
+|   |       Project-Final-Report-Template.doc
+|   |       proj_as_text.txt
+|   |       random.txt
+|   |       readelf_all_output.txt
+|   |       readelf_all_output_original.txt
+|   |       
+|   \---unit_tests
+|           run_all_unit_tests.py
+|           test_detection_indicators.py
+|           test_drive_finder.py
+|           test_file.py
+|           test_file_entropy.py
+|           test_file_extensions.py
+|           test_file_finder.py
+|           test_file_fuzzy_hash.py
+|           test_file_monitor.py
+|           test_file_storage.py
+|           test_file_type.py
+|           test_ignore_patterns.py
+|           
++---entropy_analysis
+|   |   encrypt.py
+|   |   entropy_calc_simplified.py
+|   |   entropy_graph.py
+|   |   url_downloader.py
+|   |   url_finder.py
+|   |   
+|   +---entropy_archive
+|   |   +---after_encryption
+|   |   |       entropy_docx.aes.json
+|   |   |       entropy_pdf.aes.json
+|   |   |       entropy_txt.aes.json
+|   |   |       
+|   |   \---before_encryption
+|   |           entropy_docx.json
+|   |           entropy_pdf.json
+|   |           entropy_txt.json
+|   |           
+|   \---unit_tests
+|           run_all_unit_tests.py
+|           test_entropy_calc_simplified.py
+|           test_url_downloader.py
+|           test_url_finder.py
+|           
++---final_report
+|       final_report_zeac149.pdf
+|       
+\---interim_report
+        zeac149.interim.pdf
+        
